@@ -1,3 +1,4 @@
+# Music Store Analysis
 ## This project focuses on analyzing a music store database using PostgreSQL. The primary objective was to gain insights into customer behaviors, popular music genres, and the performance of various artists.
 
 ## Key Analyses:
